@@ -1,0 +1,43 @@
+
+    
+.s1{
+    background-color: white;
+    border: 2px solid #ccc;
+    width: 250px;
+    margin: 0;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.star-tech{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    padding: 100px;
+}
+.images{
+ width: 100%;
+}
+.header h3 {
+    width: 200px;
+    padding: 20px;
+    align-items: center;
+
+}
+
+a{
+    text-decoration:none;
+    text-align: center;
+}
+.header p{
+    color: red;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
+.header p {
+    padding: 20px;
+}
